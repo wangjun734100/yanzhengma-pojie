@@ -1,0 +1,12 @@
+[-0.000][INFO]:     ChromeDriver 23.0.1240.0 D:\python37\chromedriver.exe
+[2.972][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "goog:chromeOptions": {
+      "args": [ "--start-maximized" ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[2.973][INFO]:      Launching chrome: "C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
